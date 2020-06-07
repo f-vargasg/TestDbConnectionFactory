@@ -11,7 +11,9 @@ namespace ConnectionFactoryDb
     {
         public static DatabaseFactorySectionHandler sectionHandler /*= 
             (DatabaseFactorySectionHandler)ConfigurationManager.GetSection("DatabaseFactoryConfiguration") */;
-
+        /// <summary>
+        /// Constructor de objeto
+        /// </summary>
         private DatabaseFactory() { }
 
         public static Database CreateDatabase()
