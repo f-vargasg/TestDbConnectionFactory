@@ -35,7 +35,7 @@
             // 
             // butDo
             // 
-            this.butDo.Location = new System.Drawing.Point(263, 306);
+            this.butDo.Location = new System.Drawing.Point(279, 306);
             this.butDo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.butDo.Name = "butDo";
             this.butDo.Size = new System.Drawing.Size(267, 135);
